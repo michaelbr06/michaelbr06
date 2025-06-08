@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @michaelbr06
+- 👋 Hi, I’m Michael! (@michaelbr06)
 - 👀 I’m interested in building apps for my own businesses. But I don't to be reliant on AI when building things (yet) 
 - 🌱 I’m currently learning JavaScript from [The Odin Project](https://theodinproject.com)
 - 📫 How to reach me through email: michaelbr@duck.com
