@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Michael! (@michaelbr06)
-- 👀 I’m interested in building apps for my own businesses. But I don't to be reliant on AI when building things (yet) 
-- 🌱 I’m currently learning JavaScript from [The Odin Project](https://theodinproject.com)
-- 📫 How to reach me through email: michaelbr@duck.com
+- 👀 I’m interested in building apps for my own businesses. 
+- 🌱 I’m currently learning how to build web apps from [The Odin Project](https://theodinproject.com)
+- 📫 You can reach me through email: michaelbr@duck.com
 - 😄 Pronouns: I'm male
 - ⚡ Fun fact: I work in healthcare as an optometrist.
 
